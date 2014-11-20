@@ -5,5 +5,5 @@ group :development do
 end
 
 group :plugins do
-  gem "vrantist", path: "."
+  gem "vagrant-ls", path: "."
 end

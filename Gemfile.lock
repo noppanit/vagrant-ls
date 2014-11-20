@@ -20,7 +20,7 @@ GIT
 PATH
   remote: .
   specs:
-    vrantist (0.0.1)
+    vagrant-ls (0.0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -97,4 +97,4 @@ PLATFORMS
 
 DEPENDENCIES
   vagrant!
-  vrantist!
+  vagrant-ls!

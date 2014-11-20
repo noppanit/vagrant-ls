@@ -1,6 +1,6 @@
 module Vagrant
 
-    module List
+    module Ls
         class Command < Vagrant.plugin('2', :command)
             def execute
                 exec('VBoxManage list vms')
