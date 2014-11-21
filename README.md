@@ -8,3 +8,8 @@ Also, `vagrant-ls` is intended to be an example for people who want to create a 
 # How to install
 1. run `vagrant plugin install vagrant-ls`
 2. Then `vagrant ls`
+
+# Why this plugin?
+
+People might ask why creating this plugin at all? Because you can just run `VBoxManage list vms`. I'd say this is just an example or a starting point for people
+who want to create a vagrant plugin. Another point is why not? right?
